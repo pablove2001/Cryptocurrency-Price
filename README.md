@@ -30,7 +30,7 @@ This is a web project that allows you to see in real time the top 20 cryptocurre
 - Visual Studio Code
 
 ## How to use it?
-- First click <a href="https://duos2-cryptocurrency-price.netlify.app/" target="_blank">here</a>
+- First click <a href="https://pve-cryptocurrency-price.netlify.app/" target="_blank">here</a>
 - Select currency and cryptocurrency
 - And click on "Search"
 - To finish, enjoy it!
